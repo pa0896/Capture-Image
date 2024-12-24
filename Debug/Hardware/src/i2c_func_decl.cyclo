@@ -1,0 +1,16 @@
+../Hardware/src/i2c_func_decl.c:15:6:delay_us	2
+../Hardware/src/i2c_func_decl.c:20:9:i2c_send	1
+../Hardware/src/i2c_func_decl.c:24:9:i2c_receive	1
+../Hardware/src/i2c_func_decl.c:29:6:ov2640_init	1
+../Hardware/src/i2c_func_decl.c:36:6:ov2640_write	3
+../Hardware/src/i2c_func_decl.c:46:6:ov2640_config	1
+../Hardware/src/i2c_func_decl.c:52:6:ov2640_config_bulk	3
+../Hardware/src/i2c_func_decl.c:62:6:ov2640_specialeffects	1
+../Hardware/src/i2c_func_decl.c:66:6:ov2640_simplewhitebalance	1
+../Hardware/src/i2c_func_decl.c:72:6:ov2640_advancedwhitebalance	1
+../Hardware/src/i2c_func_decl.c:79:6:ov2640_brightness	1
+../Hardware/src/i2c_func_decl.c:83:6:ov2640_lightvals	1
+../Hardware/src/i2c_func_decl.c:87:6:ov2640_saturation	1
+../Hardware/src/i2c_func_decl.c:91:6:ov2640_contrast	1
+../Hardware/src/i2c_func_decl.c:95:6:i2c_config	1
+../Hardware/src/i2c_func_decl.c:106:6:check_cami2c	4

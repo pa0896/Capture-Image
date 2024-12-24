@@ -1,0 +1,16 @@
+../Hardware/src/i2c_func_decl.c:15:6:delay_us	16	static
+../Hardware/src/i2c_func_decl.c:20:9:i2c_send	32	static
+../Hardware/src/i2c_func_decl.c:24:9:i2c_receive	32	static
+../Hardware/src/i2c_func_decl.c:29:6:ov2640_init	16	static
+../Hardware/src/i2c_func_decl.c:36:6:ov2640_write	24	static
+../Hardware/src/i2c_func_decl.c:46:6:ov2640_config	24	static
+../Hardware/src/i2c_func_decl.c:52:6:ov2640_config_bulk	24	static
+../Hardware/src/i2c_func_decl.c:62:6:ov2640_specialeffects	16	static
+../Hardware/src/i2c_func_decl.c:66:6:ov2640_simplewhitebalance	16	static
+../Hardware/src/i2c_func_decl.c:72:6:ov2640_advancedwhitebalance	16	static
+../Hardware/src/i2c_func_decl.c:79:6:ov2640_brightness	16	static
+../Hardware/src/i2c_func_decl.c:83:6:ov2640_lightvals	16	static
+../Hardware/src/i2c_func_decl.c:87:6:ov2640_saturation	16	static
+../Hardware/src/i2c_func_decl.c:91:6:ov2640_contrast	16	static
+../Hardware/src/i2c_func_decl.c:95:6:i2c_config	8	static
+../Hardware/src/i2c_func_decl.c:106:6:check_cami2c	16	static
